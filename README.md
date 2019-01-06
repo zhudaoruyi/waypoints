@@ -1,6 +1,6 @@
 # 用Python实现大疆无人机航点规划任务
 
-[[ROS](https://wiki.ros.org/)|[大疆](https://www.dji.com/cn)|[M600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav)|[开发者](https://developer.dji.com/cn/onboard-sdk/)|**Python**|[SDK](https://developer.dji.com/onboard-sdk/documentation/sample-doc/sample-setup.html#ros-onboard-computer)]
+@()[[ROS](https://wiki.ros.org/)|[大疆](https://www.dji.com/cn)|[M600 Pro](https://www.dji.com/cn/matrice600-pro?site=brandsite&from=nav)|[开发者](https://developer.dji.com/cn/onboard-sdk/)|**Python**|[SDK](https://developer.dji.com/onboard-sdk/documentation/sample-doc/sample-setup.html#ros-onboard-computer)]
 ----------
 ## 一、硬、软件环境
 
